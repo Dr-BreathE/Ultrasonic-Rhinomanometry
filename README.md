@@ -1,4 +1,4 @@
-# The Ultrasonic Nasal Air-Flow Meter
+# The Ultrasonic Rhinomanometry
 
 This is an innovative technology where we employ ultrasonic techniques to transmit nasal airflow signals. It operates without the need for WIFI or BLUETOOTH; merely granting microphone permissions on your phone allows for data transmission through ultrasonics.
 
@@ -25,19 +25,19 @@ This is an innovative technology where we employ ultrasonic techniques to transm
 
 # How to use the product?
 
-1. **Powering the Nasal Flow Device**:
+1. **Powering the Rhinomanometry Device**:
    - Turn on the nasal flow device by using a battery or a Type-C charging cable.
 
-2. **Launching the Nasal Flow App**:
-   - Open the nasal flow app on your smartphone.
+2. **Launching the Rhinomanometry App**:
+   - Open the Rhinomanometry app on your smartphone.
 
 3. **Calibration**:
    - Upon opening the app, start the calibration process. This takes approximately 10 seconds. Wait until the screen indicates that the calibration is complete.
 
-4. **Preparing the Device for Use & attaching the Nasal Flow Tube**:
+4. **Preparing the Rhinomanometry Device for Use & attaching the Rhinomanometry Tube**:
    - Before use, ensure that the nasal flow tube is properly attached to the device.
    
-   - Insert the other end of the nasal flow tube into the nostril of the person being measured.
+   - Insert the other end of the Rhinomanometry tube into the nostril of the person being measured.
 
 6. **Starting the Measurement**:
    - Press the 'Start' button to begin measuring the inhalation volume.
