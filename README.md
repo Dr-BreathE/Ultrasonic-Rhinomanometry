@@ -46,4 +46,9 @@ This is an innovative technology where we employ ultrasonic techniques to transm
    - After the measurement, you can view the nasal flow rate, flow volume for the left and right nostrils, and the total volume flow in the app.
 
 # The demo video
+[How to use the ultrasonic Rhinomanometry](https://www.youtube.com/watch?v=Hhe6gIkGaqI)
+
+# Android APP Link
+Now, you can [download](https://drive.google.com/file/d/1cLpzVeu-2TG48sFcbU9_A1hIf_6Z7nuy/view?usp=sharing) the Android APP in this link.
+
 
